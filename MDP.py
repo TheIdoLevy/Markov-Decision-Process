@@ -98,7 +98,7 @@ class MDP:
 def main():
 
     # Read input
-    filename = "input1_2026a.npz"
+    filename = ""
 
     data = np.load(filename)
 
