@@ -1,6 +1,6 @@
 # MDP Solver: Value and Policy Iteration
 
-This repository contains a Python implementation of a **Markov Decision Process (MDP)** solver, implemented from scratch. It utilizes two fundamental reinforcement learning algorithms—**Value Iteration** and **Policy Iteration**-to find the optimal policy and utility values for a given grid-based environment.
+This repository contains a Python implementation of a **Markov Decision Process (MDP)** solver, self implemented from scratch. It utilizes two fundamental reinforcement learning algorithms—**Value Iteration** and **Policy Iteration**-to find the optimal policy and utility values for a given grid-based environment.
 
 ---
 
