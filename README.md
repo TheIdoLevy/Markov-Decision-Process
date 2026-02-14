@@ -35,8 +35,8 @@ pip install numpy matplotlib
 
 The agent attempts to move in one of four directions: **Up, Down, Left, or Right**.
 
-* **Success ():** 80% chance to move to the intended state (cusomizable).
-* **Drift ():** 20% chance (split between two diagonal directions) to move elsewhere.
+* **Success:** 80% chance to move to the intended state (cusomizable).
+* **Drift:** 20% chance (split between two diagonal directions) to move elsewhere.
 * **Obstacles:** If the agent hits a blocked state or boundary, the probability is redistributed back to the successful transition (depending on the specific logic in `calc_prob`).
 
 ### ### Algorithms
